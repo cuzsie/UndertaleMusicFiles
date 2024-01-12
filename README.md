@@ -5,6 +5,8 @@ All songs in this archive are created / owned by Toby Fox. We do not own any of 
 
 ## Dependencies
 
+- A copy of FL Studio 20.8 or higher.
+
 ### VST:
 - [magical8bitPlug](https://ymck.net/app/magical-8bit-plug-en)
 
