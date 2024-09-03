@@ -1,2 +1,0 @@
-Required to be running in a copy of FL Studio that supports Fruity Sountfont Player (eg: 20.8 (32 bit), 20.9, etc)
-Arachno SoundFont - Version 1.0 - https://www.arachnosoft.com/main/download.php?id=soundfont-sf2
