@@ -1,7 +1,0 @@
-UNDERTALE OST 004 - Fallen Down - https://tobyfox.bandcamp.com/track/fallen-down-2
-
-Requirements / Plugin Credits:
-Earthbound.sf2 (Soundfont)
-
-Recreation Credits:
-cuzsie

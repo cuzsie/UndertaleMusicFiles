@@ -1,8 +1,0 @@
-UNDERTALE OST 002 - Start Menu - https://tobyfox.bandcamp.com/track/start-menu
-
-Requirements / Plugin Credits:
-magical8bitPlugin (VST) - https://ymck.net/app/magical-8bit-plug-en
-NES VST v1.1 (VST) - https://www.mattmontag.com/projects-page/nintendo-vst (DOWNLOAD v1.1, NOT v1.2!!!)
-
-Recreation Credits:
-cuzsie

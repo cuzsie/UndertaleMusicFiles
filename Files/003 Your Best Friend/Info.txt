@@ -1,8 +1,0 @@
-UNDERTALE OST 003 - Your Best Friend - https://tobyfox.bandcamp.com/track/your-best-friend-2
-
-Requirements / Plugin Credits:
-magical8bitPlugin (VST) - https://ymck.net/app/magical-8bit-plug-en
-NES VST v1.1 (VST) - https://www.mattmontag.com/projects-page/nintendo-vst (DOWNLOAD v1.1, NOT v1.2!!!)
-
-Recreation Credits:
-cuzsie
